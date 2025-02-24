@@ -104,17 +104,6 @@ Ensure you have the following Python packages installed:
    - `part_C3.py`: NMI scores after determining optimal `k`.
    - `part_D.py`: Performance comparison of KMeans vs KMeans++.
 
-## Example Output
-
-- **Elbow Method Graphs**
-- **Silhouette Score Tables**
-- **NMI Score Tables**
-- **Performance Comparison Graphs**
-
-## Conclusion
-
-The project demonstrates the comparison of clustering algorithms (KMeans vs KMeans++) and evaluates their performance on well-known datasets using multiple evaluation metrics such as WCSS, Silhouette Score, and NMI score.
-
 
 
 
